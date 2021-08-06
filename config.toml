@@ -7,5 +7,5 @@ copyright = "&copy; <a href=\"https://github.com/viticis/will-museum\">WILL MUSE
 [params]
 
 [[params.social]]
-  url = "https://github.com/viticis/will-museum"
-  fa_icon = "fab fa-github"
+  url = "about"
+  fa_icon = "fas fa-info"
