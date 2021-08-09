@@ -10,7 +10,7 @@
 ## 关于维护
 
 ### 收录
-希望是一些有意义的，例如有一定社会影响的遗书，附上来源提交PR。  
+希望是一些有意义的，例如有一定社会影响的遗书，附上来源提交PR，通过后会自动更新站点。 
 所有的内容都在[该目录](https://github.com/viticis/will-museum/tree/master/content/posts)下，使用Markdown语法，可以参考。  
 如果是不会使用Github或者Markdown的朋友，可以直接[发邮件](mailto://ryu@oever.cn)给我。
 
