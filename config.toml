@@ -2,10 +2,13 @@ baseURL = 'https://www.willmuseum.com'
 languageCode = 'zh'
 title = '遗书博物馆'
 theme = "charaka-hugo-theme"
-copyright = "&copy; <a href=\"https://github.com/viticis/will-museum\">WILL MUSEUM</a> 💔 2021"
+copyright = "&copy;2021 💔 Will Museum"
 
 [params]
 
 [[params.social]]
   url = "about"
   fa_icon = "fas fa-info"
+[[params.social]]
+  url = "https://github.com/viticis/will-museum"
+  fa_icon = "fab fa-github"
