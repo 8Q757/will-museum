@@ -1,4 +1,4 @@
-baseURL = 'https://www.willmuseum.com'
+baseURL = 'https://willmuseum.com'
 languageCode = 'zh'
 title = '遗书博物馆'
 theme = "charaka-hugo-theme"
